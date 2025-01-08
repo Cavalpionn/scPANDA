@@ -1,10 +1,10 @@
 # scPANDA
-DrPet is a tool designed to infer cell types in blood single-cell RNA sequencing (scRNA-seq) datasets using a three-layer annotation approach.
+scPANDA is a tool designed to infer cell types in blood single-cell RNA sequencing (scRNA-seq) datasets using a three-layer annotation approach.
 
 ## Usage
-To run DrPet, use the following command:
+To run scPANDA, use the following command:
 
-python -m drpet <file_path> <cell_type_column> [optional arguments]
+python -m panda <file_path> <cell_type_column> [optional arguments]
 
 ## Required Arguments
 file_path (str): The file path of the query dataset. cell_type_column (str): The name of the cell type column in the query dataset.
