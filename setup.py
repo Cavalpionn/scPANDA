@@ -4,7 +4,7 @@ setup(
     name="scPANDA",
     version="1.0.0",
     author="Chang-Xiao Li, Can Huang, Dong-Sheng Chen*",
-    author_email="lichx9@163.com",
+    author_email="xtlichangxiao@student.pumc.edu.cn",
     description=" a three-layer PAN-blood single-cell transcriptomic data annotator.",
     long_description="scPANDA is a tool designed to infer cell types in blood single-cell RNA sequencing (scRNA-seq) datasets using a three-layer annotation approach.",
     license="MIT",
